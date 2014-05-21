@@ -1,6 +1,0 @@
-#!/system/bin/sh
-
-echo "=================================================="
-echo "SlimKat has been successfully installed :)"
-echo "=================================================="
-
